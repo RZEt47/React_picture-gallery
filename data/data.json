@@ -1,0 +1,194 @@
+{
+        "french" : [
+                 {
+                  "id" : 1,
+                  "name" : "Охота Амура",
+                  "author": "Марсель Руссо",
+                  "description" : "Холст, масло (50х80)",
+                  "price" : 14500,
+                  "img" : "https://postimage.me/images/2024/05/07/176a164b9a4bc5e0d.jpeg",
+                  "country" : "french",
+                  "count" : 1
+                },
+                {
+                  "id" : 2,
+                  "name" : "Дама с собачкой",
+                  "author" : "Анри Селин",
+                  "description" : "Акрил, бумага (50х80)",
+                  "price" : 16500,
+                  "img" : "https://postimage.me/images/2024/05/07/22b68e57d9e577612.jpeg",
+                  "country" : "french",
+                  "count" : 1
+                },
+                 {
+                  "id" : 3,
+                  "name" : "Процедура",
+                  "author": "Франсуа Дюпон",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 20000,
+                  "img" : "https://postimage.me/images/2024/05/07/343d2cd57ba09f0af.jpeg",
+                  "country" : "french",
+                   "count" : 1
+                },
+                {
+                  "id" : 4,
+                  "name" : "Роза",
+                  "author": "Луи Детуш",
+                  "description" : "Бумага, акрил (50х80)",
+                  "price" : 12000,
+                  "img" : "https://postimage.me/images/2024/05/07/4a9987a7e779c61cc.jpeg",
+                  "country" : "french",
+                  "count" : 1
+                },
+                {
+                  "id" : 5,
+                  "name" : "Птичья трапеза",
+                  "author": "Франсуа Дюпон",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 22500,
+                  "img" : "https://postimage.me/images/2024/05/07/5597c33cf5f1b4f90.jpeg",
+                  "country" : "french",
+                  "count" : 1
+                },
+                 {
+                  "id" : 6,
+                  "name" : "Пейзаж с рыбой",
+                  "author": "Пьер Моранж",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 20000,
+                  "img" : "https://postimage.me/images/2024/05/07/6162d4870b17d0c99.jpeg",
+                  "country" : "french",
+                   "count" : 1
+                 }
+        ],
+
+        "germany" : [
+
+                {
+                  "id" : 7,
+                  "name" : "Над городом",
+                  "author": "Курт Вернер",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 16000,
+                  "img" : "https://postimage.me/images/2024/05/07/177086ccc4103d47f.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+                },
+                {
+                  "id" : 8,
+                  "name" : "Птенцы",
+                  "author": "Макс Рихтер",
+                  "description" : "Холст, масло (50х80)",
+                  "price" : 14500,
+                  "img" : "https://postimage.me/images/2024/05/07/28d4b8a55634c3bfc.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+                },
+               {
+                  "id" : 9,
+                  "name" : "Среди листьев",
+                  "author": "Мартин Майер",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 20000,
+                  "img" : "https://postimage.me/images/2024/05/07/3444181ea5eb8a3cc.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+               },
+                {
+                  "id" : 10,
+                  "name" : "Яркая птица",
+                  "author": "Герман Беккер",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 13000,
+                  "img" : "https://postimage.me/images/2024/05/07/40d5673302e4dc7fc.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+                },
+                 {
+                   "id" : 11,
+                  "name" : "Дятлы",
+                  "author": "Вульф Бауэр",
+                  "description" : "Бумага, акрил (50х80)",
+                  "price" : 20000,
+                  "img" : "https://postimage.me/images/2024/05/07/5ec0bd2b50e608c3c.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+                },
+                {
+                  "id" : 12,
+                  "name" : "Большие воды",
+                  "author": "Вальтер Хартманн",
+                  "description" : "Бумага, акрил (50х80)",
+                  "price" : 23000,
+                  "img" : "https://postimage.me/images/2024/05/07/6fda3e87dd1ce2326.jpeg",
+                  "country" : "germany",
+                  "count" : 1
+                }
+
+        ],
+
+        "england" : [
+
+               {
+                  "id" : 13,
+                  "name" : "Дикий зверь",
+                  "author": "Пол Смит",
+                  "description" : "Акварель, бумага (50х80)",
+                  "price" : 19500,
+                  "img" : "https://postimage.me/images/2024/05/07/1213166548e6f563f.jpeg",
+                  "country" : "england",
+                  "count" : 1
+               },
+               {
+                  "id" : 14,
+                  "name" : "Берег",
+                  "author": "Джон Уайт",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 17500,
+                  "img" : "https://postimage.me/images/2024/05/07/2c40b2902990bb94f.jpeg",
+                  "country" : "england",
+                  "count" : 1
+               },
+                {
+                  "id" : 15,
+                  "name" : "Река и горы",
+                  "author": "Джим Уотсон",
+                  "description" : "Акварель, бумага (50х80)",
+                  "price" : 20500,
+                  "img" : "https://postimage.me/images/2024/05/07/3fa7e136989f88bdc.jpeg",
+                  "country" : "england",
+                  "count" : 1
+                },
+                {
+                  "id" : 16,
+                  "name" : "Попугай",
+                  "author": "Юджин Зиллион",
+                  "description" : "Цветная литография (40х60)",
+                  "price" : 15500,
+                  "img" : "https://postimage.me/images/2024/05/07/404f7a5dd01c00577.jpeg",
+                  "country" : "england",
+                  "count" : 1
+                },
+                {
+                  "id" : 17,
+                  "name" : "Ночная рыб",
+                  "author": "Эрик Гиллман",
+                  "description" : "Бумага, акрил (50х80)",
+                  "price" : 12500,
+                  "img" : "https://postimage.me/images/2024/05/07/59692b444a94e3cc2.jpeg",
+                  "country" : "england",
+                  "count" : 1
+                },
+                {
+                  "id" : 18,
+                  "name" : "Рыжий кот",
+                  "author": "Альфред Барр",
+                  "description" : "Цветная литография (40х60) ",
+                  "price" : 21000,
+                  "img" : "https://postimage.me/images/2024/05/07/65227e0873a562690.jpeg",
+                  "country" : "england",
+                  "count" : 1
+                }
+
+        ]
+}

@@ -1,0 +1,29 @@
+
+.navPage {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  
+  @media (max-width: 1050px) {
+    justify-content: space-around;
+  }
+
+  @media (max-width: 780px) {
+    display: block;
+  }
+}
+
+.navTitle {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #2C2D35;
+
+  @media (max-width: 780px) {
+    margin-bottom: 30px;
+
+    font-size: 35px;
+    text-align: center;
+  }
+}

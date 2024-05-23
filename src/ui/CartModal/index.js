@@ -1,0 +1,1 @@
+export {CartModal} from "@/ui/CartModal/ui/CartModal.jsx";

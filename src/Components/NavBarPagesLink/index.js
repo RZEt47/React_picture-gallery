@@ -1,0 +1,1 @@
+export {NavBarPagesLink} from "@/Components/NavBarPagesLink/ui/NavBarPagesLink.jsx";

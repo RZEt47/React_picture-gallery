@@ -1,0 +1,1 @@
+export {NotFound} from "@/Pages/NotFound/ui/NotFound.jsx";

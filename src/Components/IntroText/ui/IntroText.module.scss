@@ -1,0 +1,46 @@
+
+.introItem {
+  margin-top: 145px;
+  width: 100%;
+  max-width: 540px;
+
+  @media (max-width: 900px) {
+    margin: 55px auto 0;
+    text-align: center;
+  }
+}
+
+.introTitle {
+  margin-bottom: 20px;
+
+  font-size: 60px;
+  line-height: 1.1;
+  font-weight: 500;
+  color: #2C2D35;
+
+  span {
+    color: #598D66;
+  }
+
+  @media (max-width: 900px) {
+    font-size: 50px;
+  }
+
+  @media (max-width: 740px) {
+    font-size: 40px;
+  }
+
+}
+
+.introText {
+  margin-bottom: 60px;
+
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #86928B;
+
+  @media (max-width: 900px) {
+    font-size: 14px;
+  }
+}

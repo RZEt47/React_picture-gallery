@@ -1,0 +1,1 @@
+export {Intro} from "@/Components/Intro/ui/Intro.jsx";

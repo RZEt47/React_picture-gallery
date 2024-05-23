@@ -1,0 +1,32 @@
+
+.header {
+  width: 100%;
+  max-width: 1440px;
+  padding: 30px 165px;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+
+  @media (max-width: 980px) {
+    padding: 30px 40px;
+  }
+
+  @media (max-width: 620px) {
+    justify-content: center;
+    padding: 15px 20px;
+  }
+
+  @media (max-width: 490px) {
+    flex-direction: column;
+  }
+
+}
+
+.headerMain {
+  @media (max-width: 720px) {
+    display: block;
+    margin: 0 auto;
+  }
+}

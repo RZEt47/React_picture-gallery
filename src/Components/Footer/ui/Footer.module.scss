@@ -1,0 +1,27 @@
+
+.footer {
+  background-color: #E1EDE6;
+
+  @media (max-width: 1080px) {
+    padding: 15px;
+  }
+}
+
+.footerContainer {
+  width: 100%;
+  max-width: 1110px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 23px 0;
+  align-items: center;
+
+  @media (max-width: 800px) {
+    padding: 15px;
+    flex-direction: column;
+    row-gap: 30px;
+
+    text-align: center;
+  }
+}

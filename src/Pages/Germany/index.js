@@ -1,0 +1,1 @@
+export {GermanyAsync as Germany} from "@/Pages/Germany/ui/Germany.async.jsx";

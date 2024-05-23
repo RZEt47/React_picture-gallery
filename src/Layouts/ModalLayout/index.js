@@ -1,0 +1,1 @@
+export {ModalLayout} from "@/Layouts/ModalLayout/ui/ModalLayout.jsx";

@@ -1,0 +1,1 @@
+export {MainLayoutAsync as MainLayout} from "@/Layouts/MainLayout/ui/MainLayout.async.jsx";

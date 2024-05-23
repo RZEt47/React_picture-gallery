@@ -1,0 +1,15 @@
+
+.linkPages {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 20px;
+
+  @media (max-width: 780px) {
+    justify-content: space-around;
+  }
+
+  @media (max-width: 420px) {
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+}

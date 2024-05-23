@@ -1,0 +1,1 @@
+export {Learning} from "@/Components/Learning/ui/Learning.jsx";
